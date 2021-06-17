@@ -43,5 +43,8 @@ For enabling the CSS keywords highlighting do the following in the PyCharm IDE:
 
 And thats it!
 
-Idea taken from a comment form this StackOverflow question, answer from the user Andrea:
+Idea taken from the answer of this StackOverflow question:
+
 [StackOveflow Question](https://stackoverflow.com/questions/20986720/pycharm-is-community-edition-able-to-highlight-css-javascript)
+
+The answer is from the user Andrea
