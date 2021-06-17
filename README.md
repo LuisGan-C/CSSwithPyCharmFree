@@ -1,5 +1,6 @@
 # CSSwithPyCharmFree
-##How to use PyCharm community edition for CSS file edit and writing (enabling highlighting).
+## How to use PyCharm community edition for CSS file edit and writing (enabling highlighting).
+
 This repo shows you how you can enable PyCharm Community Edition for CSS keywords, attrs and properties highlighting to be able to write CSS code with the Free PyCharm IDE.
 
 This repo scrapes the tables from the following web pages:
